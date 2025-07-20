@@ -10,10 +10,10 @@
 ---
 
 ## 🛠️ Tech Stack
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Wireshark](https://img.shields.io/badge/Wireshark-1A1A1A?style=for-the-badge&logo=wireshark)
-![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-00758F?style=for-the-badge&logo=aircrack-ng&logoColor=white)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
+[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1A1A1A?style=for-the-badge&logo=wireshark&logoColor=blue)](https://www.wireshark.org/)
+[![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-00758F?style=for-the-badge&logo=aircrack-ng&logoColor=white)](https://www.aircrack-ng.org/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/)
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hack-the-box&logoColor=limegreen)](https://www.hackthebox.com/)
 
