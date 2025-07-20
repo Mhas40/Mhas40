@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hi, I'm Muhammad Hasnain
 
-<!--
-**Mhas40/Mhas40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Cyber Security Student at SSUET  
+🔐 Passionate about Kali Linux, Hacking & Digital Forensics  
+📜 Cisco Linux Unhatched Certified  
+📢 General Secretary – Cyber Savvy Society  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Wireshark](https://img.shields.io/badge/Wireshark-1A1A1A?style=for-the-badge&logo=wireshark)
+
+---
+
+## 📈 GitHub Stats
+![Hasnain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mhas40&show_icons=true&theme=dark)
+
+---
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/muhammad-hasnain-889788288/))
