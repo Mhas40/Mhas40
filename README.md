@@ -3,9 +3,9 @@
 ## 👋 Hi, I'm Muhammad Hasnain
 
 🎓 BS Cyber Security Student at SSUET  
-🔐 Passionate about Kali Linux, Hacking & Digital Forensics  
-📜 Cisco Linux Unhatched Certified  
-📢 General Secretary – Cyber Savvy Society  
+🔐 Passionate about Kali Linux, Ethical Hacking & Digital Forensics  
+📜 Cisco Linux Unhatched & Intro To CyberSec Certified  
+ 
 
 ---
 
