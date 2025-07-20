@@ -1,3 +1,5 @@
+![Tech Banner](https://github.com/Mhas40/Mhas40/blob/main/istockphoto-2163352281-1024x1024.jpg?raw=true)
+
 ## 👋 Hi, I'm Muhammad Hasnain
 
 🎓 BS Cyber Security Student at SSUET  
