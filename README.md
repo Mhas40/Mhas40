@@ -1,4 +1,4 @@
-<img width="832" height="1248" alt="Gemini_Generated_Image_47w2yy47w2yy47w2" src="https://github.com/user-attachments/assets/400d4771-a741-47a0-8a4f-68fb111dd2de" />
+<img width="832" height="793" alt="Gemini_Generated_Image_47w2yy47w2yy47w2" src="https://github.com/user-attachments/assets/0531417c-40e2-4acb-9d35-7a840deb8e3b" />
 
 ## 👋 Hi, I'm Muhammad Hasnain
 
