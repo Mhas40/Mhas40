@@ -1,4 +1,4 @@
-![Tech Banner](https://github.com/Mhas40/Mhas40/blob/main/istockphoto-2163352281-1024x1024.jpg?raw=true)
+![Kali Linux](https://images.unsplash.com/photo-1629654297299-c8505711bb97?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
 
 ## 👋 Hi, I'm Muhammad Hasnain
 
