@@ -1,4 +1,4 @@
-<img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" width="100%" style="border-radius: 10px; margin-bottom: 20px;">
+<img width="832" height="1248" alt="Gemini_Generated_Image_47w2yy47w2yy47w2" src="https://github.com/user-attachments/assets/400d4771-a741-47a0-8a4f-68fb111dd2de" />
 
 ## 👋 Hi, I'm Muhammad Hasnain
 
