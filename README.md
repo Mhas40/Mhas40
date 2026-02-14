@@ -2,9 +2,22 @@
 
 ## 👋 Hi, I'm Muhammad Hasnain
 
-🎓 BS Cyber Security Student at SSUET  
-🔐 Passionate about Kali Linux, Ethical Hacking & Digital Forensics  
-📜 Cisco Linux Unhatched & Intro To CyberSec Certified  
+## 👨‍💻 Muhammad Hasnain
+
+**Cybersecurity Undergraduate | Ethical Hacking Enthusiast | Digital Forensics Aspirant**
+
+Passionate about securing digital landscapes and uncovering vulnerabilities. Currently pursuing a **Bachelor's in Cybersecurity** at **SSUET (Sir Syed University of Engineering & Technology)** with a strong foundation in network security, penetration testing, and forensic investigation.
+
+### 🛡️ Core Expertise
+- **Penetration Testing & Ethical Hacking** – Linux, Metasploit, Nmap, Wireshark
+- **Digital Forensics** – Evidence acquisition, analysis, and reporting
+- **Network Security** – Cisco networking, security protocols, and threat mitigation
+
+
+### 🔍 Current Focus
+- Advancing skills in vulnerability assessment and exploit development
+- Building hands-on projects in ethical hacking and forensics
+- Preparing for industry-recognized certifications (e.g., CompTIA Security+, CEH)
  
 
 ---
