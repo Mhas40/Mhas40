@@ -1,4 +1,4 @@
-![Cyber Security](https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
+<img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" width="100%" style="border-radius: 10px; margin-bottom: 20px;">
 
 ## 👋 Hi, I'm Muhammad Hasnain
 
