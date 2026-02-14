@@ -1,4 +1,4 @@
-![Kali Linux](https://images.unsplash.com/photo-1629654297299-c8505711bb97?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
+![Cybersecurity](https://images.unsplash.com/photo-1550751827-4bd374c3f58b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
 
 ## 👋 Hi, I'm Muhammad Hasnain
 
