@@ -20,7 +20,7 @@
 ---
 
 ## 📈 GitHub Stats
-![Hasnain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mhas40&show_icons=true&theme=dark)
+![Hasnain's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Mhas40&theme=dark)
 
 ---
 
