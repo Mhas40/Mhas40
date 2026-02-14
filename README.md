@@ -2,7 +2,6 @@
 
 ## 👋 Hi, I'm Muhammad Hasnain
 
-## 👨‍💻 Muhammad Hasnain
 
 **Cybersecurity Undergraduate | Ethical Hacking Enthusiast | Digital Forensics Aspirant**
 
